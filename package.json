@@ -1,0 +1,28 @@
+{
+    "name": "jquery.normalizePhoneNumber",
+    "version": "0.0.1",
+    "title": "jQuery.normalizePhoneNumber()",
+    "author": {
+        "name": "David Radcliffe",
+        "url": "http://dwradcliffe.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://dwradcliffe.mit-license.org/"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1.7"
+    },
+    "description": "The main purpose of this plugin is to normalize phone numbers in forms.",
+    "keywords": [
+        "phone",
+        "normalize",
+        "phone number"
+    ],
+    "homepage": "https://github.com/dwradcliffe/jquery.normalizePhoneNumber",
+    "files": [
+        "jquery.normalizePhoneNumber.js"
+    ]
+}
