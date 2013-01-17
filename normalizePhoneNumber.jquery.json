@@ -19,7 +19,7 @@
   "keywords": [
     "phone",
     "normalize",
-    "phone number"
+    "phone-number"
   ],
   "homepage": "https://github.com/dwradcliffe/jquery.normalizePhoneNumber",
   "files": [
